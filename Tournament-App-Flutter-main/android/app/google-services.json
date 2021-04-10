@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "117450040578",
+    "project_id": "tournament-app-d7c01",
+    "storage_bucket": "tournament-app-d7c01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117450040578:android:321b573cac738bbc154e1b",
+        "android_client_info": {
+          "package_name": "com.wineapp.tournament_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117450040578-hp7p9nfn8o71baqcdttufhmhi28m5rub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wineapp.tournament_app",
+            "certificate_hash": "af7fbfde816a8be05ae288cf0ce14572e0f2fedb"
+          }
+        },
+        {
+          "client_id": "117450040578-lb6geg974c6r7tppgm83qsdm3skqeftg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wineapp.tournament_app",
+            "certificate_hash": "e253ee83182d957c52d1feb33a12d0a2931eda28"
+          }
+        },
+        {
+          "client_id": "117450040578-rodi6h3ji0c73p4l6p75d8konrnb4r5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCiH6p86hGOsduFUuOM3YbBGQTl8WkwUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117450040578-rodi6h3ji0c73p4l6p75d8konrnb4r5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
